@@ -1,0 +1,28 @@
+.numberButton{
+	display: inline;
+	width: 25%;
+	float: left;
+}
+button{
+	width: 100%;
+	padding: 20px;
+}
+
+.displayBox{
+	text-indent: 5%;
+	width: 100%;
+	border-style: dashed;
+	margin-bottom: 10px;
+}
+
+.clearButton{
+	display: inline;
+	float: left;
+	width: 75%;
+}
+
+.equalsButton{
+	display: inline;
+	width: 50%;
+	float: left;
+}
